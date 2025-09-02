@@ -1,3 +1,9 @@
-torch
 ipykernel
 numpy
+matplotlib
+torch
+sklearn
+pandas
+requests
+torchvision
+torchmetrics
