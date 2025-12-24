@@ -10,3 +10,4 @@ torchmetrics
 tqdm
 mlxtend
 requests
+torchinfo
