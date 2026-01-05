@@ -3,3 +3,5 @@ __pycache__
 models
 pytorch-venv
 data
+replicating_a_paper/train
+replicating_a_paper/test
